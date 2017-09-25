@@ -19,4 +19,4 @@ This is a team graphic project in school 42 (UNIT), where I took an active part.
 
 <img align = "center" src = "images/img_3.bmp" width = "100%"/>
 
-[1]: https://github.com/vtiterin/ft_printf/blob/master/rt.en.pdf
+[1]: https://github.com/vtiterin/RT---Final-Project/blob/master/rt.en.pdf
