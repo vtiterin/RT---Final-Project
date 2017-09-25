@@ -3,7 +3,7 @@ This is a team graphic project in school 42 (UNIT), where I took an active part.
 
 <img align = "center" src = "images/img_1.bmp" width = "100%"/>
 
-### Subject: [ft_printf.en][1]
+### Subject: [rt.en.pdf][1]
 
 ### Requirements
 - linux or macos
